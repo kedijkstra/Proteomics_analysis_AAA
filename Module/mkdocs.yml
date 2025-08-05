@@ -1,0 +1,13 @@
+site_name: Differentially Abundant Proteins Documentation
+theme:
+  name: material
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: numpy  # or "google" if you prefer
+            show_source: false
+
