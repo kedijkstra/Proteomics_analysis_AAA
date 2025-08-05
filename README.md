@@ -12,7 +12,7 @@ This repository contains the full pipeline used for the analysis of plasma prote
 ---
 
 ## 📁 Project Structure
-
+```
 Proteomics_analysis_AAA/
 │
 ├── README.md ← This file
@@ -37,7 +37,7 @@ Proteomics_analysis_AAA/
 └── network.ipynb ← Co-expression network analysis
 ├── Other/
 │ └── requirements.txt ← Required packages for the module
-
+```
 ---
 
 ## 🧪 Methodology Highlights
